@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d2b2571-03db-4045-bc39-125f26a7f8fc" name="Default Changelist" comment="jdbc">
+      <change afterPath="$PROJECT_DIR$/chapter_004/db/master.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_004/db/scripts/update_001.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_004/src/main/java/basic/SQL_SELECT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_004/src/main/java/magnit/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_004/src/main/java/magnit/CreateDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_004/src/main/java/magnit/StoreSQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_004/src/main/java/sqlex/sql-ex-pg.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_004/src/main/resources/app.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resourcestest23.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_003/src/main/java/list/ForwardLinked.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_003/src/main/java/list/ForwardLinked.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_004/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_004/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Script" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1YwIDr9kWgetceAocGUEEyKmPO8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/chapter_002/src/main/java/io" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tracker" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="testforjava" />
+      <recent name="test" />
+      <recent name="tree" />
+      <recent name="stack" />
+      <recent name="list" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter_004/src/main/java/sqlex" />
+      <recent name="$PROJECT_DIR$/chapter_004/src/main/java/basic" />
+      <recent name="$PROJECT_DIR$/chapter_003/src/test/java/iterator/multiiterator" />
+      <recent name="$PROJECT_DIR$/chapter_003/src/test/java/iterator/jagged" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="testforjava" />
+      <recent name="list" />
+      <recent name="map" />
+      <recent name="io.server" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test" />
+      <recent name="log" />
+      <recent name="io.test" />
+      <recent name="io.archive" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter_004/src/main/resources" />
+      <recent name="$PROJECT_DIR$/chapter_004/src/main/java/carstorage" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/chapter_002/src/main/resources" />
+      <recent name="$PROJECT_DIR$/chapter_004/src/main/java/basic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SQLStorage">
+    <configuration name="CreateDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="magnit.CreateDB" />
+      <module name="chapter_004" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="magnit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForwardLinked" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.ForwardLinked" />
+      <module name="chapter_003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SQLStorage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SQLStorage" />
+      <module name="chapter_004" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UsageLog4j" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logger.UsageLog4j" />
+      <module name="chapter_002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleHashMapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter_003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="map" />
+      <option name="MAIN_CLASS_NAME" value="map.SimpleHashMapTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SQLStorage" />
+      <item itemvalue="Application.UsageLog4j" />
+      <item itemvalue="JUnit.SimpleHashMapTest" />
+      <item itemvalue="Application.ForwardLinked" />
+      <item itemvalue="Application.CreateDB" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SQLStorage" />
+        <item itemvalue="Application.CreateDB" />
+        <item itemvalue="Application.ForwardLinked" />
+        <item itemvalue="JUnit.SimpleHashMapTest" />
+        <item itemvalue="Application.UsageLog4j" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_LAMBDA" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d2b2571-03db-4045-bc39-125f26a7f8fc" name="Default Changelist" comment="" />
+      <created>1583847112634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583847112634</updated>
+      <workItem from="1583847115196" duration="18450000" />
+      <workItem from="1583999009589" duration="34726000" />
+      <workItem from="1584279984658" duration="86531000" />
+      <workItem from="1584688346758" duration="10683000" />
+      <workItem from="1584709570757" duration="13504000" />
+      <workItem from="1584786284416" duration="6290000" />
+      <workItem from="1584803092493" duration="23139000" />
+      <workItem from="1584895721714" duration="716000" />
+      <workItem from="1584898590682" duration="55396000" />
+      <workItem from="1585119535565" duration="41550000" />
+      <workItem from="1585312788843" duration="80513000" />
+      <workItem from="1585721872915" duration="7736000" />
+      <workItem from="1585807914519" duration="21420000" />
+      <workItem from="1585897475348" duration="23268000" />
+      <workItem from="1585988039279" duration="26814000" />
+      <workItem from="1586162795559" duration="10187000" />
+      <workItem from="1586243733252" duration="16924000" />
+      <workItem from="1586324223721" duration="22566000" />
+      <workItem from="1586441250183" duration="23176000" />
+      <workItem from="1586588120898" duration="3080000" />
+      <workItem from="1586599458285" duration="23474000" />
+      <workItem from="1586668155301" duration="22566000" />
+      <workItem from="1586939038824" duration="14806000" />
+      <workItem from="1586964929949" duration="52000" />
+      <workItem from="1586965088141" duration="250000" />
+      <workItem from="1586966597089" duration="6376000" />
+      <workItem from="1586975925372" duration="106000" />
+      <workItem from="1587016161681" duration="15408000" />
+      <workItem from="1587124750423" duration="7977000" />
+      <workItem from="1587191433023" duration="12821000" />
+    </task>
+    <task id="LOCAL-00091" summary="5.3.1. Создать динамический список на базе массива.[#252785]">
+      <created>1585641627868</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1585641627868</updated>
+    </task>
+    <task id="LOCAL-00092" summary=" 5.3.3.1 Очередь на двух стеках[#252787]">
+      <created>1585648207161</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1585648207161</updated>
+    </task>
+    <task id="LOCAL-00093" summary="5.3.4. Перевернуть связанный список[#252788]">
+      <created>1585668242289</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1585668242289</updated>
+    </task>
+    <task id="LOCAL-00094" summary="1. Реализовать коллекцию Set на массиве[#252800]">
+      <created>1585670737254</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1585670737254</updated>
+    </task>
+    <task id="LOCAL-00095" summary="рек">
+      <created>1585723025565</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1585723025566</updated>
+    </task>
+    <task id="LOCAL-00096" summary="User">
+      <created>1585749792336</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1585749792336</updated>
+    </task>
+    <task id="LOCAL-00097" summary=" 2. Не перекрывать equals hashCode[#252807]">
+      <created>1585757031993</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1585757031993</updated>
+    </task>
+    <task id="LOCAL-00098" summary="8. Реализовать собственную структуру данных - HashMap[#252810]">
+      <created>1585845724555</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1585845724556</updated>
+    </task>
+    <task id="LOCAL-00099" summary="MyLinkedList v 1.0">
+      <created>1585899522293</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1585899522293</updated>
+    </task>
+    <task id="LOCAL-00100" summary="MySimpleMap v 1.0">
+      <created>1585907244930</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1585907244930</updated>
+    </task>
+    <task id="LOCAL-00101" summary="MySimpleMap v 1.0">
+      <created>1585907527343</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1585907527343</updated>
+    </task>
+    <task id="LOCAL-00102" summary="set">
+      <created>1585913496069</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1585913496069</updated>
+    </task>
+    <task id="LOCAL-00103" summary="MySimpleStack v1.0">
+      <created>1585923728442</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1585923728442</updated>
+    </task>
+    <task id="LOCAL-00104" summary="5.3.3.1 Очередь на двух стеках[#252787]">
+      <created>1585925535529</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1585925535529</updated>
+    </task>
+    <task id="LOCAL-00105" summary="check">
+      <created>1585926114712</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1585926114712</updated>
+    </task>
+    <task id="LOCAL-00106" summary="check">
+      <created>1585929179084</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1585929179084</updated>
+    </task>
+    <task id="LOCAL-00107" summary="test maven">
+      <created>1585930310654</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1585930310654</updated>
+    </task>
+    <task id="LOCAL-00108" summary="Tree Robert Lafore">
+      <created>1586068257290</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1586068257291</updated>
+    </task>
+    <task id="LOCAL-00109" summary="1. Создать элементарную структуру дерева[#252814]">
+      <created>1586078170414</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1586078170414</updated>
+    </task>
+    <task id="LOCAL-00110" summary="1. Создать элементарную структуру дерева[#252814]">
+      <created>1586078313177</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1586078313177</updated>
+    </task>
+    <task id="LOCAL-00111" summary="check">
+      <created>1586079069008</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1586079069008</updated>
+    </task>
+    <task id="LOCAL-00112" summary="2. Добавить метод boolean isBinary()[#252815]">
+      <created>1586083591545</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1586083591545</updated>
+    </task>
+    <task id="LOCAL-00113" summary="ReverseWord">
+      <created>1586162928341</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1586162928341</updated>
+    </task>
+    <task id="LOCAL-00114" summary="ReverseWord">
+      <created>1586163076346</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1586163076346</updated>
+    </task>
+    <task id="LOCAL-00115" summary="Статистику по коллекции.[#252779]">
+      <created>1586183489857</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1586183489857</updated>
+    </task>
+    <task id="LOCAL-00116" summary="Майл чек">
+      <created>1586275342924</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1586275342925</updated>
+    </task>
+    <task id="LOCAL-00117" summary="Mail">
+      <created>1586351252397</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1586351252398</updated>
+    </task>
+    <task id="LOCAL-00118" summary="queue">
+      <created>1586426009157</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1586426009157</updated>
+    </task>
+    <task id="LOCAL-00119" summary="Stack">
+      <created>1586426685220</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1586426685221</updated>
+    </task>
+    <task id="LOCAL-00120" summary="Stack">
+      <created>1586426761238</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1586426761238</updated>
+    </task>
+    <task id="LOCAL-00121" summary="Set">
+      <created>1586427227152</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1586427227152</updated>
+    </task>
+    <task id="LOCAL-00122" summary="travis">
+      <created>1586427837583</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1586427837583</updated>
+    </task>
+    <task id="LOCAL-00123" summary=" 1. Схема прав пользователи и роли.[#252769]">
+      <created>1586529525448</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1586529525449</updated>
+    </task>
+    <task id="LOCAL-00124" summary=" 1. Схема прав пользователи и роли.[#252769]">
+      <created>1586625910655</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1586625910656</updated>
+    </task>
+    <task id="LOCAL-00125" summary="Мапа хеш версия 2">
+      <created>1586636821951</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1586636821951</updated>
+    </task>
+    <task id="LOCAL-00126" summary="resize">
+      <created>1586682733678</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1586682733679</updated>
+    </task>
+    <task id="LOCAL-00127" summary="point">
+      <created>1586935049491</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1586935049491</updated>
+    </task>
+    <task id="LOCAL-00128" summary="HashMap">
+      <created>1586947716212</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1586947716213</updated>
+    </task>
+    <task id="LOCAL-00129" summary="Logger">
+      <created>1586964262362</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1586964262363</updated>
+    </task>
+    <task id="LOCAL-00130" summary="Travis">
+      <created>1586970016504</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1586970016504</updated>
+    </task>
+    <task id="LOCAL-00131" summary="HashMap">
+      <created>1586971046361</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1586971046361</updated>
+    </task>
+    <task id="LOCAL-00132" summary="HashMap22">
+      <created>1586973772194</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1586973772194</updated>
+    </task>
+    <task id="LOCAL-00133" summary="check">
+      <created>1587016195690</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1587016195691</updated>
+    </task>
+    <task id="LOCAL-00134" summary=" Фильтры[#252772]">
+      <created>1587039331125</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1587039331125</updated>
+    </task>
+    <task id="LOCAL-00135" summary=" Хранилище машин[#252775]">
+      <created>1587057387225</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1587057387225</updated>
+    </task>
+    <task id="LOCAL-00136" summary="фильтр запросов 2">
+      <created>1587130838836</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1587130838839</updated>
+    </task>
+    <task id="LOCAL-00137" summary="PreparedStatement работа с БД через JDBC">
+      <created>1587138068455</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1587138068455</updated>
+    </task>
+    <task id="LOCAL-00138" summary="исправление хешмапы">
+      <created>1587192716800</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1587192716801</updated>
+    </task>
+    <task id="LOCAL-00139" summary="jdbc">
+      <created>1587226294590</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1587226294590</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="1. Создать элементарную структуру дерева[#252814]" />
+    <MESSAGE value="2. Добавить метод boolean isBinary()[#252815]" />
+    <MESSAGE value="ReverseWord" />
+    <MESSAGE value="Статистику по коллекции.[#252779]" />
+    <MESSAGE value="Майл чек" />
+    <MESSAGE value="Mail" />
+    <MESSAGE value="queue" />
+    <MESSAGE value="Stack" />
+    <MESSAGE value="Set" />
+    <MESSAGE value="travis" />
+    <MESSAGE value=" 1. Схема прав пользователи и роли.[#252769]" />
+    <MESSAGE value="Мапа хеш версия 2" />
+    <MESSAGE value="resize" />
+    <MESSAGE value="point" />
+    <MESSAGE value="Logger" />
+    <MESSAGE value="Travis" />
+    <MESSAGE value="HashMap" />
+    <MESSAGE value="HashMap22" />
+    <MESSAGE value="check" />
+    <MESSAGE value=" Фильтры[#252772]" />
+    <MESSAGE value=" Хранилище машин[#252775]" />
+    <MESSAGE value="фильтр запросов 2" />
+    <MESSAGE value="PreparedStatement работа с БД через JDBC" />
+    <MESSAGE value="исправление хешмапы" />
+    <MESSAGE value="jdbc" />
+    <option name="LAST_COMMIT_MESSAGE" value="jdbc" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="455" y="99" width="1000" height="839" key="#Notifications" timestamp="1586162986465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="455" y="99" width="1000" height="839" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1586162986465" />
+    <state x="455" y="0" width="1280" height="1041" key="#Project_Structure" timestamp="1587064174050">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="455" y="99" width="1000" height="839" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1585037103322" />
+    <state x="455" y="0" width="1280" height="1041" key="#Project_Structure/0.0.1920.1041@0.0.1920.1041" timestamp="1587064174050" />
+    <state x="164" y="343" width="1581" height="353" key="#SQL_Dialects" timestamp="1587226173848">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="164" y="343" width="1581" height="353" key="#SQL_Dialects/0.0.1920.1041@0.0.1920.1041" timestamp="1587226173848" />
+    <state x="561" y="163" width="788" height="712" key="#Zip" timestamp="1585037221909">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="561" y="163" width="788" height="712" key="#Zip/0.0.1920.1040@0.0.1920.1040" timestamp="1585037221909" />
+    <state x="285" y="170" width="800" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587226254639">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="285" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585306685744" />
+    <state x="285" y="170" width="800" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1041@0.0.1920.1041" timestamp="1587226254639" />
+    <state x="76" y="152" width="1720" height="841" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1586973655187">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="76" y="152" width="1720" height="840" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585838764687" />
+    <state x="76" y="152" width="1720" height="841" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1041@0.0.1920.1041" timestamp="1586973655187" />
+    <state x="593" y="307" width="767" height="428" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587056521714">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="593" y="307" width="723" height="424" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584696451927" />
+    <state x="593" y="307" width="767" height="428" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1041@0.0.1920.1041" timestamp="1587056521714" />
+    <state x="721" y="164" width="643" height="697" key="#com.intellij.ide.util.MemberChooser" timestamp="1586970586319">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="721" y="164" width="645" height="708" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586179884233" />
+    <state x="721" y="164" width="643" height="697" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1041@0.0.1920.1041" timestamp="1586970586319" />
+    <state x="721" y="170" width="468" height="697" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1586323796856" />
+    <state x="767" y="404" width="375" height="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585304326622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="767" y="404" width="375" height="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585304326622" />
+    <state x="640" y="247" width="630" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586441109947">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="640" y="247" width="630" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1041@0.0.1920.1041" timestamp="1586441109947" />
+    <state x="469" y="433" width="1058" height="175" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586962743896">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="469" y="433" width="1010" height="171" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585835601835" />
+    <state x="469" y="433" width="1058" height="175" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1041@0.0.1920.1041" timestamp="1586962743896" />
+    <state x="672" y="355" width="575" height="340" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586150943637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="672" y="355" width="575" height="340" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1586150943637" />
+    <state x="672" y="381" width="575" height="275" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1586962745338">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="672" y="381" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1585835604184" />
+    <state x="672" y="381" width="575" height="275" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1041@0.0.1920.1041" timestamp="1586962745338" />
+    <state x="490" y="0" width="819" height="1041" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586676895062">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="490" y="0" width="929" height="1040" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585665631455" />
+    <state x="490" y="0" width="819" height="1041" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1041@0.0.1920.1041" timestamp="1586676895062" />
+    <state x="490" y="0" width="643" height="1080" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586256098002" />
+    <state x="627" y="210" width="655" height="618" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586180450757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="210" width="655" height="618" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586180450757" />
+    <state x="627" y="210" width="655" height="618" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1586626862531">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="627" y="210" width="655" height="618" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1041@0.0.1920.1041" timestamp="1586626862531" />
+    <state x="758" y="377" width="751" height="371" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586534513896">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="758" y="377" width="624" height="304" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1584294550418" />
+    <state x="758" y="377" width="751" height="371" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1041@0.0.1920.1041" timestamp="1586534513896" />
+    <state x="601" y="30" width="1041" height="1010" key="CommitChangelistDialog2" timestamp="1586935049138">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="601" y="30" width="1041" height="1010" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586183489543" />
+    <state x="601" y="30" width="1041" height="1010" key="CommitChangelistDialog2/0.0.1920.1041@0.0.1920.1041" timestamp="1586935049138" />
+    <state x="601" y="31" width="1041" height="1010" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1586275342053" />
+    <state x="690" y="220" width="530" height="598" key="FileChooserDialogImpl" timestamp="1587226718760">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="690" y="220" width="530" height="598" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585304228214" />
+    <state x="690" y="220" key="FileChooserDialogImpl/0.0.1920.1041@0.0.1920.1041" timestamp="1587226718760" />
+    <state width="1866" height="195" key="GridCell.Tab.0.bottom" timestamp="1587226101881">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="1866" height="174" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586182915056" />
+    <state width="1866" height="195" key="GridCell.Tab.0.bottom/0.0.1920.1041@0.0.1920.1041" timestamp="1587226101881" />
+    <state width="1866" height="228" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586323827591" />
+    <state width="1866" height="195" key="GridCell.Tab.0.center" timestamp="1587226101880">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="1866" height="174" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586182915055" />
+    <state width="1866" height="195" key="GridCell.Tab.0.center/0.0.1920.1041@0.0.1920.1041" timestamp="1587226101880" />
+    <state width="1866" height="228" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586323827588" />
+    <state width="1866" height="195" key="GridCell.Tab.0.left" timestamp="1587226101877">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="1866" height="174" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586182915054" />
+    <state width="1866" height="195" key="GridCell.Tab.0.left/0.0.1920.1041@0.0.1920.1041" timestamp="1587226101877" />
+    <state width="1866" height="228" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586323827586" />
+    <state width="1866" height="195" key="GridCell.Tab.0.right" timestamp="1587226101880">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="1866" height="174" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586182915055" />
+    <state width="1866" height="195" key="GridCell.Tab.0.right/0.0.1920.1041@0.0.1920.1041" timestamp="1587226101880" />
+    <state width="1866" height="228" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586323827589" />
+    <state width="1866" height="332" key="GridCell.Tab.1.bottom" timestamp="1587193423516">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="1866" height="460" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585930322398" />
+    <state width="1866" height="332" key="GridCell.Tab.1.bottom/0.0.1920.1041@0.0.1920.1041" timestamp="1587193423516" />
+    <state width="1866" height="482" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586275115823" />
+    <state width="1866" height="332" key="GridCell.Tab.1.center" timestamp="1587193423514">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="1866" height="460" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585930322397" />
+    <state width="1866" height="332" key="GridCell.Tab.1.center/0.0.1920.1041@0.0.1920.1041" timestamp="1587193423514" />
+    <state width="1866" height="482" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586275115820" />
+    <state width="1866" height="332" key="GridCell.Tab.1.left" timestamp="1587193423513">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="1866" height="460" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585930322397" />
+    <state width="1866" height="332" key="GridCell.Tab.1.left/0.0.1920.1041@0.0.1920.1041" timestamp="1587193423513" />
+    <state width="1866" height="482" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586275115818" />
+    <state width="1866" height="332" key="GridCell.Tab.1.right" timestamp="1587193423515">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state width="1866" height="460" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585930322398" />
+    <state width="1866" height="332" key="GridCell.Tab.1.right/0.0.1920.1041@0.0.1920.1041" timestamp="1587193423515" />
+    <state width="1866" height="482" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586275115822" />
+    <state x="440" y="205" width="1030" height="628" key="IDE.errors.dialog" timestamp="1585222225243">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="205" width="1030" height="628" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585222225243" />
+    <state x="377" y="95" width="1155" height="848" key="Maven.ArtifactSearchDialog" timestamp="1586955678284">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="377" y="95" width="1155" height="848" key="Maven.ArtifactSearchDialog/0.0.1920.1041@0.0.1920.1041" timestamp="1586955678284" />
+    <state x="333" y="0" width="1280" height="1041" key="SettingsEditor" timestamp="1586934318422">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="333" y="0" width="1280" height="1040" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586183851637" />
+    <state x="333" y="0" width="1280" height="1041" key="SettingsEditor/0.0.1920.1041@0.0.1920.1041" timestamp="1586934318422" />
+    <state x="455" y="192" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1587226297177">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="455" y="192" width="1000" height="654" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586183491230" />
+    <state x="455" y="192" width="1000" height="654" key="Vcs.Push.Dialog.v2/0.0.1920.1041@0.0.1920.1041" timestamp="1587226297177" />
+    <state x="455" y="199" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1586275346434" />
+    <state x="689" y="287" width="531" height="464" key="chooseDestDirectoryDialog" timestamp="1584803932282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="287" width="531" height="464" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584803932282" />
+    <state x="550" y="308" key="com.intellij.ide.util.TipDialog" timestamp="1586668170038">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="550" y="308" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585996736901" />
+    <state x="550" y="308" key="com.intellij.ide.util.TipDialog/0.0.1920.1041@0.0.1920.1041" timestamp="1586668170038" />
+    <state x="550" y="320" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586243737466" />
+    <state x="688" y="421" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584903270167">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="688" y="421" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584903270167" />
+    <state x="679" y="135" width="552" height="768" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586442069769">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="679" y="135" width="552" height="768" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586182045143" />
+    <state x="679" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1041@0.0.1920.1041" timestamp="1586442069769" />
+    <state x="679" y="140" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586275515908" />
+    <state x="153" y="119" width="1604" height="800" key="new project wizard" timestamp="1583999030727">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="153" y="119" width="1604" height="800" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1583999030727" />
+    <state x="642" y="68" width="625" height="901" key="refactoring.ChangeSignatureDialog" timestamp="1585383576141">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="642" y="68" width="625" height="901" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585383576141" />
+    <state x="540" y="233" key="run.anything.popup" timestamp="1586067117353">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="233" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586067117353" />
+    <state x="539" y="5" width="840" height="175" key="search.everywhere.popup" timestamp="1586971486906">
+      <screen x="0" y="0" width="1920" height="1041" />
+    </state>
+    <state x="539" y="5" width="840" height="174" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586183829309" />
+    <state x="539" y="5" width="840" height="175" key="search.everywhere.popup/0.0.1920.1041@0.0.1920.1041" timestamp="1586971486906" />
+    <state x="539" y="5" width="840" height="181" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1586251506073" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/chapter_003/src/main/java/testforjava/mazle/RatMaze.java</url>
+          <line>53</line>
+          <properties class="testforjava.mazle.RatMaze">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapter_003/src/main/java/testforjava/Task17.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
