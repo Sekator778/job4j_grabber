@@ -1,2 +1,3 @@
 # job4j_grabber
-почему травис не видит проект?
+
+[![Build Status](https://travis-ci.org/Sekator778/job4j_grabber.svg?branch=master)](https://travis-ci.org/Sekator778/job4j_grabber)
